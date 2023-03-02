@@ -1,6 +1,7 @@
 # chatgpt-streamlit
 
 当然是基于 chatgpt 的`gpt-3.5-turbo`的 api 的一个小型对话 demo 。
+![sample](https://i.imgur.com/NavMcXL.png)
 
 ## 运行方法
 python3 ，依赖于`openai`、`streamlit`
