@@ -8,7 +8,7 @@ python3，依赖于`openai`、`streamlit`
 运行方法：
 
 ```
-streamlit app.py
+streamlit run app.py
 ```
 （其他问题可以直接问chatgpt）
 
