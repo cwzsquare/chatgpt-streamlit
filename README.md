@@ -14,5 +14,5 @@ streamlit run app.py
 
 ## 注意事项
 1. 请在 app.py 中填入自己的 api_key ，去 https://platform.openai.com/account/api-keys 申请吧；
-2. streamlit确实比较搭建 web demo ，特别是直接渲染 markdown ~~，但bug估计不少~~
+2. streamlit确实比较适合 web demo ，特别是直接渲染 markdown ~~，但bug估计不少~~
 3. 大概率是自用的小 demo ，但欢迎 fork 自改
